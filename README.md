@@ -7,7 +7,7 @@
 
 - 💻 I'm trying to learn new technologies. To face new challenges and try to solve them
 
-- 🌱 I’m currently learning **NestJs, Microservice, Kafka, RabbitMQ, etc**
+- 🌱 I’m currently learning **NestJs, Microservices, Kafka, RabbitMQ, etc**
 
 - 💬 Ask me about **JavaScript,TypeScript, NodeJs,NestJs, PHP, Laravel, SQL, NoSQL DB**
 
