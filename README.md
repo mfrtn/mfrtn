@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Mohammad Foroutan</h1>
 <h3 align="center">Back-end developer with a flair for creativity and innovation</h3>
 </br>
-</br>
 
 - 🔭 I’m currently working on **Tiara-gold(private)**
 
