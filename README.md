@@ -2,7 +2,7 @@
 <h3 align="center">Back-end developer with a flair for creativity and innovation</h3>
 </br>
 
-- 🔭 I’m currently working on **Tiara-gold(private)**
+- 🔭 I’m currently working on **TiaraZar(private)**
 
 - 💻 I'm trying to learn new technologies. To face new challenges and try to solve them
 
